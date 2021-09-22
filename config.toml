@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://john.adams.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'John Adams'
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
@@ -56,11 +56,11 @@ title = 'My New Hugo Site'
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["C/C++", "https://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["Hacking", "https://sixgen.io/"],
+    ["Python", ""],
+    ["Ansible", ""],
+    ["Docker", ""],
+    ["Kubernetes", ""],
   ]
 
 [module]
